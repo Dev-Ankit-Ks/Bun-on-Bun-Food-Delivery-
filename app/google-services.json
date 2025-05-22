@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "687931994508",
+    "firebase_url": "https://bun-on-bun-default-rtdb.firebaseio.com",
+    "project_id": "bun-on-bun",
+    "storage_bucket": "bun-on-bun.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687931994508:android:37ef2b43269c76f935e6a9",
+        "android_client_info": {
+          "package_name": "com.example.bunonbun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687931994508-otbt1tfrrkg336v0llihq2glj17o6h7n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bunonbun",
+            "certificate_hash": "1bd5560bff85a8d6fb381355fdc59962ed6b5ae1"
+          }
+        },
+        {
+          "client_id": "687931994508-95gs8v28uonisqapim0g23a0ccro5g69.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqofucI2sMwTQSK4dLGoDJSLf-YcTGvZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687931994508-95gs8v28uonisqapim0g23a0ccro5g69.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
